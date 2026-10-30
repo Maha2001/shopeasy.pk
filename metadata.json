@@ -1,0 +1,6 @@
+{
+  "name": "ShopEasy PK - Modern E-Commerce & Admin Storefront",
+  "description": "Complete Pakistani E-Commerce storefront with Hyderabad Cash on Delivery, WhatsApp order dispatch, and full Supabase-ready admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
